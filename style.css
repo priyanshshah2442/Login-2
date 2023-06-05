@@ -9,6 +9,16 @@ body{
     min-height: 100vh;
     max-width: 100vw;
 }
+#logo_container{
+    /* background-color: aqua; */
+    position: relative;
+    transform: translateX(-50px);
+    left:50%;
+}
+#logo{
+    width: 100px;
+    border-radius: 5px;
+}
 .left_col{
     /* background-color: cadetblue; */
     height: 100vh;
