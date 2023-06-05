@@ -63,7 +63,7 @@ input{
 }
 .input_label_focussed{
     position:absolute;
-    animation: myanim 0.4s;
+    animation: myanim 0.2s;
     top:-30px;
 }
 @keyframes myanim{
