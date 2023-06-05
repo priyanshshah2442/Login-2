@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="747" height="735.716" viewBox="0 0 747 735.716">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.238" y1="0.094" x2="0.735" y2="0.99" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bffef6"/>
+      <stop offset="0.234" stop-color="#b1f5f7"/>
+      <stop offset="0.548" stop-color="#79e8f9"/>
+      <stop offset="0.759" stop-color="#61e0fa"/>
+      <stop offset="0.878" stop-color="#94e1f5"/>
+      <stop offset="0.929" stop-color="#58defb"/>
+      <stop offset="1" stop-color="#59defb"/>
+      <stop offset="1" stop-color="#607f7b"/>
+    </linearGradient>
+    <filter id="Ellipse_60" x="71" y="526" width="79" height="81" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.932" y1="0.73" x2="0.034" y2="0.277" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bffef6"/>
+      <stop offset="0.077" stop-color="#d6faf8"/>
+      <stop offset="0.171" stop-color="#d7faf8"/>
+      <stop offset="0.261" stop-color="#bbf6f7"/>
+      <stop offset="0.339" stop-color="#b2f5f7"/>
+      <stop offset="0.455" stop-color="#b1f5f7"/>
+      <stop offset="0.586" stop-color="#79e8f9"/>
+      <stop offset="0.728" stop-color="#66e0f9"/>
+      <stop offset="0.759" stop-color="#61e0fa"/>
+      <stop offset="0.878" stop-color="#94e1f5"/>
+      <stop offset="0.929" stop-color="#58defb"/>
+      <stop offset="0.975" stop-color="#59defb"/>
+      <stop offset="1" stop-color="#607f7b"/>
+    </linearGradient>
+    <filter id="Ellipse_64" x="596" y="567" width="79" height="81" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_67" x="528" y="607" width="48" height="50" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6787fa"/>
+      <stop offset="0.08" stop-color="#7c99fa"/>
+      <stop offset="0.224" stop-color="#95a9fd"/>
+      <stop offset="0.445" stop-color="#a7b8fd"/>
+      <stop offset="0.636" stop-color="#a9bafd"/>
+      <stop offset="1" stop-color="#a9bafd"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+    <filter id="Ellipse_73" x="592" y="34" width="36" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_6" data-name="Group 6" transform="translate(-223 -1329)">
+    <path id="Subtraction_7" data-name="Subtraction 7" d="M747,749H38A37.968,37.968,0,0,1,0,711V56A37.969,37.969,0,0,1,38,18H747V749Z" transform="translate(223 1315)" fill="#6283fb"/>
+    <path id="Subtraction_8" data-name="Subtraction 8" d="M144.5,194.288a58.71,58.71,0,0,1-19.657-3.323,51.806,51.806,0,0,1-16.052-9.062A42.6,42.6,0,0,1,97.969,168.46,36.21,36.21,0,0,1,94,152H195a36.211,36.211,0,0,1-3.968,16.46A42.6,42.6,0,0,1,180.209,181.9a51.8,51.8,0,0,1-16.052,9.062A58.709,58.709,0,0,1,144.5,194.288Z" transform="translate(186.5 1181)" fill="#fff"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(-1092 -159)">
+      <g id="Group_3" data-name="Group 3" transform="translate(1365 1560)">
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="2.5" cy="2.5" r="2.5" fill="#fff"/>
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="2.5" cy="2.5" r="2.5" transform="translate(23)" fill="#fff"/>
+        <circle id="Ellipse_6" data-name="Ellipse 6" cx="2.5" cy="2.5" r="2.5" transform="translate(45)" fill="#fff"/>
+        <circle id="Ellipse_7" data-name="Ellipse 7" cx="2.5" cy="2.5" r="2.5" transform="translate(68)" fill="#fff"/>
+        <circle id="Ellipse_8" data-name="Ellipse 8" cx="2.5" cy="2.5" r="2.5" transform="translate(0 16)" fill="#fff"/>
+        <circle id="Ellipse_9" data-name="Ellipse 9" cx="2.5" cy="2.5" r="2.5" transform="translate(23 16)" fill="#fff"/>
+        <circle id="Ellipse_10" data-name="Ellipse 10" cx="2.5" cy="2.5" r="2.5" transform="translate(45 16)" fill="#fff"/>
+        <circle id="Ellipse_11" data-name="Ellipse 11" cx="2.5" cy="2.5" r="2.5" transform="translate(68 16)" fill="#fff"/>
+        <circle id="Ellipse_12" data-name="Ellipse 12" cx="2.5" cy="2.5" r="2.5" transform="translate(0 32)" fill="#fff"/>
+        <circle id="Ellipse_13" data-name="Ellipse 13" cx="2.5" cy="2.5" r="2.5" transform="translate(23 32)" fill="#fff"/>
+        <circle id="Ellipse_14" data-name="Ellipse 14" cx="2.5" cy="2.5" r="2.5" transform="translate(45 32)" fill="#fff"/>
+        <circle id="Ellipse_15" data-name="Ellipse 15" cx="2.5" cy="2.5" r="2.5" transform="translate(68 32)" fill="#fff"/>
+        <circle id="Ellipse_16" data-name="Ellipse 16" cx="2.5" cy="2.5" r="2.5" transform="translate(90)" fill="#fff"/>
+        <circle id="Ellipse_17" data-name="Ellipse 17" cx="2.5" cy="2.5" r="2.5" transform="translate(90 16)" fill="#fff"/>
+        <circle id="Ellipse_18" data-name="Ellipse 18" cx="2.5" cy="2.5" r="2.5" transform="translate(90 32)" fill="#fff"/>
+        <circle id="Ellipse_19" data-name="Ellipse 19" cx="2.5" cy="2.5" r="2.5" transform="translate(111)" fill="#fff"/>
+        <circle id="Ellipse_20" data-name="Ellipse 20" cx="2.5" cy="2.5" r="2.5" transform="translate(111 16)" fill="#fff"/>
+        <circle id="Ellipse_21" data-name="Ellipse 21" cx="2.5" cy="2.5" r="2.5" transform="translate(111 32)" fill="#fff"/>
+        <circle id="Ellipse_22" data-name="Ellipse 22" cx="2.5" cy="2.5" r="2.5" transform="translate(0 16)" fill="#fff"/>
+        <circle id="Ellipse_23" data-name="Ellipse 23" cx="2.5" cy="2.5" r="2.5" transform="translate(23 16)" fill="#fff"/>
+        <circle id="Ellipse_24" data-name="Ellipse 24" cx="2.5" cy="2.5" r="2.5" transform="translate(45 16)" fill="#fff"/>
+        <circle id="Ellipse_25" data-name="Ellipse 25" cx="2.5" cy="2.5" r="2.5" transform="translate(68 16)" fill="#fff"/>
+        <circle id="Ellipse_26" data-name="Ellipse 26" cx="2.5" cy="2.5" r="2.5" transform="translate(0 32)" fill="#fff"/>
+        <circle id="Ellipse_27" data-name="Ellipse 27" cx="2.5" cy="2.5" r="2.5" transform="translate(23 32)" fill="#fff"/>
+        <circle id="Ellipse_28" data-name="Ellipse 28" cx="2.5" cy="2.5" r="2.5" transform="translate(45 32)" fill="#fff"/>
+        <circle id="Ellipse_29" data-name="Ellipse 29" cx="2.5" cy="2.5" r="2.5" transform="translate(68 32)" fill="#fff"/>
+        <circle id="Ellipse_30" data-name="Ellipse 30" cx="2.5" cy="2.5" r="2.5" transform="translate(90 16)" fill="#fff"/>
+        <circle id="Ellipse_31" data-name="Ellipse 31" cx="2.5" cy="2.5" r="2.5" transform="translate(90 32)" fill="#fff"/>
+        <circle id="Ellipse_32" data-name="Ellipse 32" cx="2.5" cy="2.5" r="2.5" transform="translate(111 16)" fill="#fff"/>
+        <circle id="Ellipse_33" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(111 32)" fill="#fff"/>
+        <circle id="Ellipse_34" data-name="Ellipse 34" cx="2.5" cy="2.5" r="2.5" transform="translate(0 49)" fill="#fff"/>
+        <circle id="Ellipse_35" data-name="Ellipse 35" cx="2.5" cy="2.5" r="2.5" transform="translate(23 49)" fill="#fff"/>
+        <circle id="Ellipse_36" data-name="Ellipse 36" cx="2.5" cy="2.5" r="2.5" transform="translate(45 49)" fill="#fff"/>
+        <circle id="Ellipse_37" data-name="Ellipse 37" cx="2.5" cy="2.5" r="2.5" transform="translate(68 49)" fill="#fff"/>
+        <circle id="Ellipse_38" data-name="Ellipse 38" cx="2.5" cy="2.5" r="2.5" transform="translate(0 65)" fill="#fff"/>
+        <circle id="Ellipse_39" data-name="Ellipse 39" cx="2.5" cy="2.5" r="2.5" transform="translate(23 65)" fill="#fff"/>
+        <circle id="Ellipse_40" data-name="Ellipse 40" cx="2.5" cy="2.5" r="2.5" transform="translate(45 65)" fill="#fff"/>
+        <circle id="Ellipse_41" data-name="Ellipse 41" cx="2.5" cy="2.5" r="2.5" transform="translate(68 65)" fill="#fff"/>
+        <circle id="Ellipse_42" data-name="Ellipse 42" cx="2.5" cy="2.5" r="2.5" transform="translate(90 49)" fill="#fff"/>
+        <circle id="Ellipse_43" data-name="Ellipse 43" cx="2.5" cy="2.5" r="2.5" transform="translate(90 65)" fill="#fff"/>
+        <circle id="Ellipse_44" data-name="Ellipse 44" cx="2.5" cy="2.5" r="2.5" transform="translate(111 49)" fill="#fff"/>
+        <circle id="Ellipse_45" data-name="Ellipse 45" cx="2.5" cy="2.5" r="2.5" transform="translate(111 65)" fill="#fff"/>
+        <circle id="Ellipse_46" data-name="Ellipse 46" cx="2.5" cy="2.5" r="2.5" transform="translate(0 49)" fill="#fff"/>
+        <circle id="Ellipse_47" data-name="Ellipse 47" cx="2.5" cy="2.5" r="2.5" transform="translate(23 49)" fill="#fff"/>
+        <circle id="Ellipse_48" data-name="Ellipse 48" cx="2.5" cy="2.5" r="2.5" transform="translate(45 49)" fill="#fff"/>
+        <circle id="Ellipse_49" data-name="Ellipse 49" cx="2.5" cy="2.5" r="2.5" transform="translate(68 49)" fill="#fff"/>
+        <circle id="Ellipse_50" data-name="Ellipse 50" cx="2.5" cy="2.5" r="2.5" transform="translate(0 65)" fill="#fff"/>
+        <circle id="Ellipse_51" data-name="Ellipse 51" cx="2.5" cy="2.5" r="2.5" transform="translate(23 65)" fill="#fff"/>
+        <circle id="Ellipse_52" data-name="Ellipse 52" cx="2.5" cy="2.5" r="2.5" transform="translate(45 65)" fill="#fff"/>
+        <circle id="Ellipse_53" data-name="Ellipse 53" cx="2.5" cy="2.5" r="2.5" transform="translate(68 65)" fill="#fff"/>
+        <circle id="Ellipse_54" data-name="Ellipse 54" cx="2.5" cy="2.5" r="2.5" transform="translate(90 49)" fill="#fff"/>
+        <circle id="Ellipse_55" data-name="Ellipse 55" cx="2.5" cy="2.5" r="2.5" transform="translate(90 65)" fill="#fff"/>
+        <circle id="Ellipse_56" data-name="Ellipse 56" cx="2.5" cy="2.5" r="2.5" transform="translate(111 49)" fill="#fff"/>
+        <circle id="Ellipse_57" data-name="Ellipse 57" cx="2.5" cy="2.5" r="2.5" transform="translate(111 65)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(-718 802)">
+      <g id="Group_4" data-name="Group 4">
+        <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="2.5" cy="2.5" r="2.5" transform="translate(1013 1161)" fill="#fff"/>
+        <circle id="Ellipse_5-2" data-name="Ellipse 5" cx="2.5" cy="2.5" r="2.5" transform="translate(1036 1161)" fill="#fff"/>
+        <circle id="Ellipse_6-2" data-name="Ellipse 6" cx="2.5" cy="2.5" r="2.5" transform="translate(1058 1161)" fill="#fff"/>
+        <circle id="Ellipse_7-2" data-name="Ellipse 7" cx="2.5" cy="2.5" r="2.5" transform="translate(1081 1161)" fill="#fff"/>
+        <circle id="Ellipse_8-2" data-name="Ellipse 8" cx="2.5" cy="2.5" r="2.5" transform="translate(1013 1177)" fill="#fff"/>
+        <circle id="Ellipse_9-2" data-name="Ellipse 9" cx="2.5" cy="2.5" r="2.5" transform="translate(1036 1177)" fill="#fff"/>
+        <circle id="Ellipse_10-2" data-name="Ellipse 10" cx="2.5" cy="2.5" r="2.5" transform="translate(1058 1177)" fill="#fff"/>
+        <circle id="Ellipse_11-2" data-name="Ellipse 11" cx="2.5" cy="2.5" r="2.5" transform="translate(1081 1177)" fill="#fff"/>
+        <circle id="Ellipse_12-2" data-name="Ellipse 12" cx="2.5" cy="2.5" r="2.5" transform="translate(1013 1193)" fill="#fff"/>
+        <circle id="Ellipse_13-2" data-name="Ellipse 13" cx="2.5" cy="2.5" r="2.5" transform="translate(1036 1193)" fill="#fff"/>
+        <circle id="Ellipse_14-2" data-name="Ellipse 14" cx="2.5" cy="2.5" r="2.5" transform="translate(1058 1193)" fill="#fff"/>
+        <circle id="Ellipse_15-2" data-name="Ellipse 15" cx="2.5" cy="2.5" r="2.5" transform="translate(1081 1193)" fill="#fff"/>
+        <circle id="Ellipse_22-2" data-name="Ellipse 22" cx="2.5" cy="2.5" r="2.5" transform="translate(1013 1177)" fill="#fff"/>
+        <circle id="Ellipse_23-2" data-name="Ellipse 23" cx="2.5" cy="2.5" r="2.5" transform="translate(1036 1177)" fill="#fff"/>
+        <circle id="Ellipse_24-2" data-name="Ellipse 24" cx="2.5" cy="2.5" r="2.5" transform="translate(1058 1177)" fill="#fff"/>
+        <circle id="Ellipse_25-2" data-name="Ellipse 25" cx="2.5" cy="2.5" r="2.5" transform="translate(1081 1177)" fill="#fff"/>
+        <circle id="Ellipse_26-2" data-name="Ellipse 26" cx="2.5" cy="2.5" r="2.5" transform="translate(1013 1193)" fill="#fff"/>
+        <circle id="Ellipse_27-2" data-name="Ellipse 27" cx="2.5" cy="2.5" r="2.5" transform="translate(1036 1193)" fill="#fff"/>
+        <circle id="Ellipse_28-2" data-name="Ellipse 28" cx="2.5" cy="2.5" r="2.5" transform="translate(1058 1193)" fill="#fff"/>
+        <circle id="Ellipse_29-2" data-name="Ellipse 29" cx="2.5" cy="2.5" r="2.5" transform="translate(1081 1193)" fill="#fff"/>
+        <circle id="Ellipse_34-2" data-name="Ellipse 34" cx="2.5" cy="2.5" r="2.5" transform="translate(1013 1210)" fill="#fff"/>
+        <circle id="Ellipse_35-2" data-name="Ellipse 35" cx="2.5" cy="2.5" r="2.5" transform="translate(1036 1210)" fill="#fff"/>
+        <circle id="Ellipse_36-2" data-name="Ellipse 36" cx="2.5" cy="2.5" r="2.5" transform="translate(1058 1210)" fill="#fff"/>
+        <circle id="Ellipse_37-2" data-name="Ellipse 37" cx="2.5" cy="2.5" r="2.5" transform="translate(1081 1210)" fill="#fff"/>
+        <circle id="Ellipse_46-2" data-name="Ellipse 46" cx="2.5" cy="2.5" r="2.5" transform="translate(1013 1210)" fill="#fff"/>
+        <circle id="Ellipse_47-2" data-name="Ellipse 47" cx="2.5" cy="2.5" r="2.5" transform="translate(1036 1210)" fill="#fff"/>
+        <circle id="Ellipse_48-2" data-name="Ellipse 48" cx="2.5" cy="2.5" r="2.5" transform="translate(1058 1210)" fill="#fff"/>
+        <circle id="Ellipse_49-2" data-name="Ellipse 49" cx="2.5" cy="2.5" r="2.5" transform="translate(1081 1210)" fill="#fff"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 223, 1329)" filter="url(#Ellipse_60)">
+      <circle id="Ellipse_60-2" data-name="Ellipse 60" cx="33.5" cy="33.5" r="33.5" transform="translate(72 526)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Subtraction_10" data-name="Subtraction 10" d="M202.117,86H54.883A75.426,75.426,0,0,1,54,74.5a74.5,74.5,0,1,1,149,0,75.434,75.434,0,0,1-.883,11.5Z" transform="translate(650 1978)" fill="url(#linear-gradient-2)"/>
+    <g id="Subtraction_12" data-name="Subtraction 12" transform="translate(553 1905)" fill="#fff">
+      <path d="M 385.4987182617188 158.5010375976562 L 364.3206481933594 158.5004425048828 C 364.19091796875 121.9973831176758 349.7986450195312 87.66372680664062 323.7614440917969 61.76863098144531 C 297.6066284179688 35.756591796875 262.8875427246094 21.43113327026367 225.9997863769531 21.43113327026367 C 149.8965301513672 21.43113327026367 87.95082855224609 82.87338256835938 87.67897033691406 158.5004272460938 L 66.50044250488281 158.5004272460938 C 66.53376007080078 147.9148559570312 67.62328338623047 137.3387756347656 69.7401123046875 127.0572128295898 C 71.83544921875 116.8806762695312 74.96211242675781 106.870964050293 79.0333251953125 97.30612945556641 C 83.03094482421875 87.91426086425781 87.97861480712891 78.85592651367188 93.73899078369141 70.38275909423828 C 99.44523620605469 61.9892578125 105.9980316162109 54.09683990478516 113.2153625488281 46.92475891113281 C 120.4334869384766 39.7518424987793 128.3757019042969 33.23984146118164 136.8212738037109 27.56963348388672 C 145.3467407226562 21.84588241577148 154.462158203125 16.9292163848877 163.9143218994141 12.95625782012939 C 173.5396575927734 8.910257339477539 183.6127777099609 5.802882671356201 193.8538665771484 3.720465898513794 C 204.361328125 1.58354926109314 215.1767883300781 0.5000492930412292 225.9997863769531 0.5000492930412292 C 236.8227844238281 0.5000492930412292 247.6382446289062 1.58354926109314 258.1456604003906 3.720465898513794 C 268.3881530761719 5.803257465362549 278.4612731933594 8.910591125488281 288.0852661132812 12.95621585845947 C 297.5365295410156 16.92867469787598 306.6521606445312 21.84534072875977 315.1788635253906 27.56963348388672 C 323.6257934570312 33.24105072021484 331.5678100585938 39.75304794311523 338.7843322753906 46.92475891113281 C 346.0034484863281 54.09888076782227 352.5562438964844 61.99129867553711 358.2606506347656 70.38271331787109 C 364.0210266113281 78.85592651367188 368.9686889648438 87.91426086425781 372.9662780761719 97.30612945556641 C 377.0369567871094 106.8707962036133 380.1636657714844 116.8805084228516 382.2595825195312 127.057258605957 C 384.3760681152344 137.3371734619141 385.4654235839844 147.9139099121094 385.4987182617188 158.5010375976562 Z" stroke="none"/>
+      <path d="M 384.996337890625 158.0010223388672 C 384.9309387207031 147.6144409179688 383.8462829589844 137.2433929443359 381.7698364257812 127.158088684082 C 379.6806640625 117.0138854980469 376.5639038085938 107.0360946655273 372.5061950683594 97.50192260742188 C 368.5213317871094 88.13988494873047 363.5893249511719 79.11026000976562 357.84716796875 70.66384124755859 C 352.16064453125 62.29875946044922 345.62841796875 54.43109130859375 338.4318542480469 47.27938079833984 C 331.2379150390625 40.13009262084961 323.3207092285156 33.63842391967773 314.9002075195312 27.9847583770752 C 306.400146484375 22.2784252166748 297.3131408691406 17.37717437744141 287.8914794921875 13.41717433929443 C 278.2977905273438 9.384257316589355 268.2563171386719 6.286674499511719 258.0460205078125 4.210465908050537 C 247.5713195800781 2.080174207687378 236.7894134521484 1.000049352645874 225.9997863769531 1.000049352645874 C 215.2101593017578 1.000049352645874 204.4282379150391 2.080174207687378 193.9534912109375 4.210465908050537 C 183.7446136474609 6.286341190338135 173.7031555175781 9.38392448425293 164.1080780029297 13.41717433929443 C 154.6855316162109 17.3776741027832 145.5986938476562 22.2789249420166 137.0999908447266 27.9847583770752 C 128.6807861328125 33.63721466064453 120.7634048461914 40.12888336181641 113.5677795410156 47.27942276000977 C 106.3730697631836 54.42905044555664 99.8408203125 62.29671478271484 94.15248870849609 70.66384124755859 C 88.41032409667969 79.11026000976562 83.47827911376953 88.13988494873047 79.493408203125 97.50192260742188 C 75.43519592285156 107.0362167358398 72.31848907470703 117.0140075683594 70.22986602783203 127.1580505371094 C 68.15320587158203 137.2443695068359 67.06837463378906 147.6160125732422 67.00281524658203 158.0004272460938 L 87.18165588378906 158.0004272460938 C 87.72566986083984 82.32844543457031 149.7896270751953 20.93113327026367 225.9997863769531 20.93113327026367 C 263.0205688476562 20.93113327026367 297.8648681640625 35.30825805664062 324.1140441894531 61.41408920288086 C 350.1272888183594 87.28538513183594 364.5591125488281 121.5499877929688 364.8179626464844 158.0004577636719 L 384.996337890625 158.0010223388672 M 385.9994812011719 159.0010528564453 L 363.821533203125 159.0004272460938 C 363.8212890625 122.4460906982422 349.4692687988281 88.04134368896484 323.4088745117188 62.12313079833984 C 297.3483581542969 36.20492553710938 262.7544860839844 21.93113327026367 225.9997863769531 21.93113327026367 C 150.0046081542969 21.93113327026367 88.17807006835938 83.42017364501953 88.17807006835938 159.0004272460938 L 65.99965667724609 159.0004272460938 C 65.99969482421875 148.2129211425781 67.09361267089844 137.4319610595703 69.25040435791016 126.9563827514648 C 71.35244750976562 116.7471313476562 74.48915863037109 106.7054672241211 78.57328033447266 97.11029815673828 C 82.58345031738281 87.68888092041016 87.54678344726562 78.60179901123047 93.32549285888672 70.10163116455078 C 99.04961395263672 61.68184280395508 105.6229476928711 53.76467514038086 112.862907409668 46.57009124755859 C 120.1035308837891 39.37483978271484 128.0705261230469 32.84246444702148 136.5425720214844 27.15450859069824 C 145.0944519042969 21.41300773620605 154.2384033203125 16.48088264465332 163.7205657958984 12.49529933929443 C 173.3761901855469 8.436591148376465 183.4809875488281 5.319466114044189 193.7542419433594 3.230507612228394 C 204.2942352294922 1.086966037750244 215.1432037353516 4.9316407967126e-05 225.9997863769531 4.9316407967126e-05 C 236.8563690185547 4.9316407967126e-05 247.705322265625 1.086966037750244 258.2453308105469 3.230507612228394 C 268.5196838378906 5.319757461547852 278.6245422363281 8.436841011047363 288.2790222167969 12.49529933929443 C 297.7600402832031 16.48025703430176 306.9042053222656 21.41234016418457 315.4575805664062 27.15450859069824 C 323.9309997558594 32.84371566772461 331.8978271484375 39.37609100341797 339.1367797851562 46.57009124755859 C 346.3782043457031 53.76638412475586 352.9515686035156 61.68346786499023 358.6741638183594 70.10163116455078 C 364.4528198242188 78.60176086425781 369.4161682128906 87.6888427734375 373.4263305664062 97.11029815673828 C 377.5099182128906 106.7052612304688 380.6466674804688 116.7469253540039 382.749267578125 126.9563827514648 C 384.9059143066406 137.4310455322266 385.9994812011719 148.2122650146484 385.9994812011719 159.0004272460938 L 385.9994812011719 159.0010528564453 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 223, 1329)" filter="url(#Ellipse_64)">
+      <circle id="Ellipse_64-2" data-name="Ellipse 64" cx="33.5" cy="33.5" r="33.5" transform="translate(597 567)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Subtraction_15" data-name="Subtraction 15" d="M54,118.107A126.52,126.52,0,0,1,56.27,94.563,123.352,123.352,0,0,1,62.781,72.3a121.014,121.014,0,0,1,10.3-20.142A118.21,118.21,0,0,1,86.725,34.613a114.361,114.361,0,0,1,16.535-14.48A109.865,109.865,0,0,1,122.238,9.2,105.757,105.757,0,0,1,160.725,0V7.086c-55.934,2.8-99.883,51.561-100.054,111.02H54Z" transform="matrix(1, 0.017, -0.017, 1, 618.369, 1943.823)" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 223, 1329)" filter="url(#Ellipse_67)">
+      <circle id="Ellipse_67-2" data-name="Ellipse 67" cx="18" cy="18" r="18" transform="translate(529 607)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Union_2" data-name="Union 2" d="M.17,193.333H0V0H71V193.333h-.17C69.072,208.3,53.925,220,35.5,220S1.928,208.3.17,193.333Z" transform="translate(534 1366)" opacity="0.8" fill="url(#linear-gradient-5)"/>
+    <g id="Subtraction_17" data-name="Subtraction 17" transform="translate(355 1194)" fill="none">
+      <path d="M179,252a24.817,24.817,0,0,1-17.515-7.373,29.107,29.107,0,0,1-8.36-18.094H153V135h52v91.534h-.124a29.114,29.114,0,0,1-8.361,18.094A24.817,24.817,0,0,1,179,252Z" stroke="none"/>
+      <path d="M 179.0001068115234 249 C 184.7017211914062 249 190.1719512939453 246.6903381347656 194.4033813476562 242.4962768554688 C 198.6670074462891 238.2712860107422 201.3251342773438 232.5066070556641 201.8881225585938 226.2641296386719 L 202.0001983642578 225.0214385986328 L 202.0001983642578 138.0000152587891 L 156 138 L 155.9999847412109 225.0093841552734 L 156.1130218505859 226.2645111083984 C 156.6751708984375 232.5065155029297 159.3329772949219 238.2710571289062 163.5970916748047 242.4965057373047 C 167.8282775878906 246.6903381347656 173.2984924316406 249 179.0001068115234 249 M 179.0001068115234 252 C 172.5021667480469 252 166.2819213867188 249.3816223144531 161.4851989746094 244.6272125244141 C 156.7196197509766 239.9048309326172 153.7506256103516 233.4790496826172 153.1251068115234 226.5335998535156 L 152.9999847412109 226.5335998535156 L 153 135 L 205.0001983642578 135.0000152587891 L 205.0001983642578 226.5335998535156 L 204.8760070800781 226.5335998535156 C 204.2495574951172 233.4794616699219 201.2798919677734 239.9055328369141 196.5150146484375 244.6272125244141 C 191.7182922363281 249.3816223144531 185.4980316162109 252 179.0001068115234 252 Z" stroke="none" fill="#fff"/>
+    </g>
+    <path id="Union_3" data-name="Union 3" d="M.13,151.152H0V0H54V151.152h-.13C52.533,162.855,41.013,172,27,172S1.467,162.855.13,151.152Z" transform="translate(439 1375)" opacity="0.8" fill="url(#linear-gradient-5)"/>
+    <path id="Subtraction_19" data-name="Subtraction 19" d="M132.5,161A56.455,56.455,0,0,1,76,104.5h4.217a50.68,50.68,0,0,0,15.331,36.356A52.362,52.362,0,0,0,132.5,155.94c28.829,0,52.284-23.076,52.284-51.44S161.329,53.06,132.5,53.06V48a56.5,56.5,0,1,1,0,113Z" transform="translate(612 1317)" fill="#fff"/>
+    <path id="Path_1" data-name="Path 1" d="M28,2C43.464,2,56,12.536,56,28A28,28,0,0,1,0,28C0,12.536,12.536,2,28,2Z" transform="translate(716 1392)" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 223, 1329)" filter="url(#Ellipse_73)">
+      <circle id="Ellipse_73-2" data-name="Ellipse 73" cx="12" cy="12" r="12" transform="translate(593 34)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

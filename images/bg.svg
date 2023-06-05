@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080.001" viewBox="0 0 1920 1080.001">
+  <g id="Group_7" data-name="Group 7" transform="translate(0 0)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="960" height="1080" fill="#5d7df3"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="960" height="1080" transform="translate(960)" fill="#e4e8f3"/>
+    <path id="Subtraction_3" data-name="Subtraction 3" d="M180.676,451.23h-.022a191.773,191.773,0,0,1-54.067-7.475,167.478,167.478,0,0,1-24.875-9.5A161.65,161.65,0,0,1,60.26,405.815a165.946,165.946,0,0,1-15.9-17.356,184.677,184.677,0,0,1-24.477-41.131A230.774,230.774,0,0,1,5.118,298.894,296.332,296.332,0,0,1,0,244.666,372.813,372.813,0,0,1,4.49,186.153a449.672,449.672,0,0,1,14.026-61.288A516.747,516.747,0,0,1,42.029,62.311,568,568,0,0,1,74.971,0H394.565V362.436A475.6,475.6,0,0,1,345.016,398.1c-27.555,17.2-55.608,30.48-83.379,39.482C233.711,446.636,206.472,451.228,180.676,451.23Z" transform="translate(1518.435 0)" fill="#a1bfff"/>
+    <path id="Subtraction_6" data-name="Subtraction 6" d="M74.462,382.5H5.427c-.435-2.9-.847-5.8-1.223-8.64C2.082,357.89.749,341.984.241,326.579a422.729,422.729,0,0,1,.913-45.653,372.121,372.121,0,0,1,5.872-43.665,330.1,330.1,0,0,1,10.915-41.315,298.662,298.662,0,0,1,16.039-38.6,278.828,278.828,0,0,1,21.245-35.525A271.893,271.893,0,0,1,81.758,89.734c28.682-29.7,63.765-52.45,104.274-67.616C225.239,7.442,269.118,0,316.449,0c38.63,0,79.294,4.984,120.864,14.814,17.718,4.19,35.8,9.321,53.753,15.25V94.012c-48.611-14.931-96.033-22.5-140.951-22.5-84.9,0-156.048,27.208-205.754,78.679a238.414,238.414,0,0,0-23.253,28.118,244.658,244.658,0,0,0-18.623,31.13,274.252,274.252,0,0,0-23.634,70.026,346.722,346.722,0,0,0-5.968,78.259c.266,8.112.8,16.446,1.578,24.771Z" transform="translate(1421.934 697.505)" fill="#9fbdfd"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(1746 941)">
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="9" cy="9" r="9" fill="#fff"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="9" cy="9" r="9" transform="translate(29)" fill="#fff"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="9" cy="9" r="9" transform="translate(58)" fill="#fff"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="9" cy="9" r="9" transform="translate(87)" fill="#fff"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="9" cy="9" r="9" transform="translate(0 36)" fill="#fff"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="9" cy="9" r="9" transform="translate(29 36)" fill="#fff"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="9" cy="9" r="9" transform="translate(58 36)" fill="#fff"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="9" cy="9" r="9" transform="translate(87 36)" fill="#fff"/>
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="9" cy="9" r="9" transform="translate(0 72)" fill="#fff"/>
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="9" cy="9" r="9" transform="translate(29 72)" fill="#fff"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="9" cy="9" r="9" transform="translate(58 72)" fill="#fff"/>
+      <circle id="Ellipse_15" data-name="Ellipse 15" cx="9" cy="9" r="9" transform="translate(87 72)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
